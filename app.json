@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "reactnative-expo-firebase-boilerplate-v2",
-    "slug": "reactnative-expo-firebase-boilerplate-v2",
+    "name": "discountbytes",
+    "slug": "bytediscounted",
     "privacy": "public",
     "platforms": [
       "ios",
@@ -17,8 +17,7 @@
     },
     "updates": {
       "enabled": true,
-      "fallbackToCacheTimeout": 10000,
-      "url": "https://u.expo.dev/1650611b-a5b8-4420-9656-60c06429edd4"
+      "fallbackToCacheTimeout": 10000
     },
     "assetBundlePatterns": [
       "**/*"
@@ -57,11 +56,8 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "1650611b-a5b8-4420-9656-60c06429edd4"
+        "projectId": "20be5a29-a04d-48d9-a975-be71b8c0aa1c"
       }
-    },
-    "runtimeVersion": {
-      "policy": "appVersion"
     }
   }
 }

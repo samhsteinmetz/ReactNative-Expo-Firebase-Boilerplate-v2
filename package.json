@@ -39,7 +39,7 @@
     "lottie-react-native": "6.5.1",
     "moment": "^2.24.0",
     "patch-package": "^6.4.7",
-    "react": "18.2.0",
+    "react": "^18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.73.4",
     "react-native-dialog": "^9.3.0",
